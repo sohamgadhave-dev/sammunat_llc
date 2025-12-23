@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Quick Links
-🔗 **Live Demo:** [EliteHosting on Vercel](https://elitehosting-react-bby9.vercel.app/)  
+🔗 **Live Demo:** [Landing Page](https://sammunat-llc-five.vercel.app/)  
 
 ---
 
